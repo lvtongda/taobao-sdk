@@ -1,0 +1,30 @@
+{  
+  "name": "lvtongda/taobao-sdk",  
+  "description": "taobao sdk",  
+  "keywords": [  
+    "lvtongda",  
+    "taobao-sdk"  
+  ],  
+  "homepage": "https://github.com/lvtongda/taobao-sdk",  
+  "type": "",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/lvtongda/taobao-sdk"  
+  },  
+  "authors": [  
+    {  
+      "name": "taobao",  
+      "email": ""  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {       
+  },  
+  "autoload": {  
+    "psr-4": {   
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800
+  }  
+}  
